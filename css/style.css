@@ -1,0 +1,44 @@
+p {
+  font-family: 'Bitter', serif;
+  line-height: 1.7em;
+  margin: 1em;
+  padding: 1em;
+  font-size: 1.2em;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+}
+
+.centre{
+  left:25%;
+  width:50%;
+  height:50%;
+  top:15%;
+  position:absolute;
+  text-align:center;
+}
+
+a:link {
+    color: #06C4CA;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #06C4CA;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #FFF100;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:active {
+    color: #FFF100;
+    text-decoration: none;
+    font-weight: bold;
+}

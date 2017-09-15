@@ -1,0 +1,1 @@
+{$(".Typewriter").typed({strings:["experiences","strategy","interfaces","products","brands","disruption","delight","experiences"],contentType:"text",startDelay:1500,backSpeed:20,backDelay:1500,typeSpeed:150,loop:!0})}
